@@ -1,6 +1,6 @@
 # Hi, I'm Atika Ramu 👋
 
-### Full Stack Developer | Node.js | Express | MongoDB | React | JavaScript | DSA Enthusiast
+### Full Stack Developer | Node.js | Express | MongoDB | React | JavaScript | DSA Enthusiast| JAVA
 
 ---
 
